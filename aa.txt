@@ -1,4 +1,4 @@
 public status void main(String[] arg){
 
-
+	new Line
 }
